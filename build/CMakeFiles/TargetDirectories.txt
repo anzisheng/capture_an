@@ -1,0 +1,5 @@
+/home/txry/workspace/face_an/build/CMakeFiles/tensorLib.dir
+/home/txry/workspace/face_an/build/CMakeFiles/capture_an_lib.dir
+/home/txry/workspace/face_an/build/CMakeFiles/capture_an.dir
+/home/txry/workspace/face_an/build/CMakeFiles/edit_cache.dir
+/home/txry/workspace/face_an/build/CMakeFiles/rebuild_cache.dir
